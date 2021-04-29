@@ -1,4 +1,4 @@
-# Remember to add one more year to the current one to test the strype payment system
+# Remember to add one more year to the current one in order to test the strype payment system
 
 ## Install dependencies
 
